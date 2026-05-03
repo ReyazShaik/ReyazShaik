@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Reyaz Shaik</h1>
-
 <!-- 🔥 Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F54927&center=true&vCenter=true&lines=AWS+DevOps+Engineer;Azure+Cloud+Expert;GCP+Cloud+Expert;Trainer+%7C+Consultant;CI%2FCD+%7C+Kubernetes+%7C+Docker" />
