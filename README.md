@@ -1,7 +1,4 @@
 <!-- 🔥 Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F54927&center=true&vCenter=true&lines=AWS+DevOps+Engineer;Azure+Cloud+Expert;GCP+Cloud+Expert;Trainer+%7C+Consultant;CI%2FCD+%7C+Kubernetes+%7C+Docker" />
-</p>
 
 <h3 align="center">🚀 Multi-Cloud and DevOps Engineer | Trainer | Consultant</h3>
 
