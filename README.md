@@ -19,6 +19,20 @@
 <!-- Azure Badge -->
 <img src="https://img.shields.io/badge/Azure-Certified-blue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=for-the-badge&logo=jenkins"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blue?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge&logo=terraform"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--104%20Administrator-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--400%20DevOps%20Engineer-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-red?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20DevOps%20Engineer-red?style=for-the-badge&logo=googlecloud"/>
+</p>
 </p>
 
 ---
