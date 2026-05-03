@@ -49,8 +49,9 @@
 ## 🚀 Motto
 
 > Learn → Build → Teach → Repeat 🔥
-> "I don’t just teach DevOps… I build DevOps Engineers."
-
+<p>
+> "I don’t just teach DevOps — I engineer careers and build industry-ready professionals"
+</p>
 ---
 
 ## 📫 Contact Me
