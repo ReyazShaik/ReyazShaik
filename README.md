@@ -43,17 +43,29 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" height="50"/>
+</p>
 
 </p>
 
@@ -84,3 +96,4 @@
 ## 🚀 Motto
 
 > Learn → Build → Teach → Repeat 🔥
+> "I don’t just teach DevOps… I build DevOps Engineers."
