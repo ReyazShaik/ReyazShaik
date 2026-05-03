@@ -35,6 +35,23 @@
 </p>
 
 ---
+## 💡 About Me
+
+🚀 Multicloud DevOps Trainer & Consultant  
+☁️ Specializing in AWS, Azure & GCP ecosystems  
+🐳 Expert in Docker, Kubernetes & scalable deployments  
+⚙️ CI/CD pipelines, automation & infrastructure as code  
+🎯 Delivering hands-on, real-time DevOps training  
+💡 Helping professionals transition into high-paying DevOps roles  
+
+---
+
+## 🚀 Motto
+
+> Learn → Build → Teach → Repeat 🔥
+> "I don’t just teach DevOps… I build DevOps Engineers."
+
+---
 
 ## 📫 Contact Me
 <p align="center">
@@ -103,17 +120,4 @@
 </p>
 ---
 
-## 💡 About Me
 
-- 🔭 DevOps Engineer & Trainer  
-- ☁️ AWS | Azure | GCP  
-- 🐳 Docker | Kubernetes  
-- ⚙️ CI/CD | Automation  
-- 🎯 Teaching real-time projects  
-
----
-
-## 🚀 Motto
-
-> Learn → Build → Teach → Repeat 🔥
-> "I don’t just teach DevOps… I build DevOps Engineers."
