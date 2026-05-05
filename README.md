@@ -50,7 +50,7 @@
 
 > Learn → Build → Teach → Repeat 🔥
 <p>
-> "I don’t just teach DevOps — I engineer careers and build industry-ready professionals"
+> "I don’t just teach DevOps — I build engineers who can deliver in the real world."
 </p>
 ---
 
